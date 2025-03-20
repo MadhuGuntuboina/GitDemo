@@ -9,6 +9,9 @@ public class Sellntroduction {
 	 WebDriver driver= (WebDriver) new ChromeDriver();
 	 driver.get("https://google.com");
 	 driver.getTitle();
+	 System.out.println("write");
+	 System.out.println("read");
+	 System.out.println("play");
 	 
 	 
 
