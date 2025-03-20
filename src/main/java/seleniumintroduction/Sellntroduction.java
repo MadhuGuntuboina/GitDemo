@@ -8,6 +8,7 @@ public class Sellntroduction {
 	public static void main(String[] args) {
 	 WebDriver driver= (WebDriver) new ChromeDriver();
 	 driver.get("https://google.com");
+	 driver.getTitle();
 	 
 
 	}
